@@ -14,9 +14,7 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-![image](https://github.com/shalinikannan23/nn-classification/assets/118656529/2ce42a3f-1af5-41b4-b492-d8ad2cbf3598)
-
-
+<img height=10% width=30% src ="https://github.com/shalinikannan23/nn-classification/assets/118656529/2ce42a3f-1af5-41b4-b492-d8ad2cbf3598">
 
 ## DESIGN STEPS
 
@@ -213,28 +211,28 @@ print(le.inverse_transform(x_single_prediction))
 ```
 
 ## Dataset Information
-![image](https://github.com/shalinikannan23/nn-classification/assets/118656529/95b56df4-4564-4ba9-a5b7-9fbd85fe65c1)
+<img height=10% width=30% src ="https://github.com/shalinikannan23/nn-classification/assets/118656529/95b56df4-4564-4ba9-a5b7-9fbd85fe65c1">
 
 
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-![image](https://github.com/shalinikannan23/nn-classification/assets/118656529/7c8f3df2-b780-4400-8044-5042b88067c0)
+<img height=10% width=30% src ="https://github.com/shalinikannan23/nn-classification/assets/118656529/7c8f3df2-b780-4400-8044-5042b88067c0">
 
 
 
 ### Classification Report
-![image](https://github.com/shalinikannan23/nn-classification/assets/118656529/8738c0a6-f372-467e-8839-f6b45d7df5f4)
+<img height=10% width=30% src ="https://github.com/shalinikannan23/nn-classification/assets/118656529/8738c0a6-f372-467e-8839-f6b45d7df5f4">
 
 
 
 ### Confusion Matrix
-![image](https://github.com/shalinikannan23/nn-classification/assets/118656529/861b6233-aa9c-4114-bb79-63af98f702ca)
+<img height=10% width=30% src ="https://github.com/shalinikannan23/nn-classification/assets/118656529/861b6233-aa9c-4114-bb79-63af98f702ca">
 
 
 
 ### New Sample Data Prediction
-![image](https://github.com/shalinikannan23/nn-classification/assets/118656529/c31d548d-e244-4d39-87a3-5683ab1791ea)
+<img height=10% width=30% src ="https://github.com/shalinikannan23/nn-classification/assets/118656529/c31d548d-e244-4d39-87a3-5683ab1791ea">
 
 
 
